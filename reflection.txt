@@ -1,0 +1,1 @@
+I intentionally tested an incorrect cipher input, and the AI helped identify and fix the scoring edge case so the app stayed safe instead of producing an invalid result.

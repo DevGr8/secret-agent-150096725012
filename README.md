@@ -1,33 +1,32 @@
 # Black//Box Secret Agent Hacker Terminal
 
-**Live Web Link:** https://devgr8.github.io/secret-agent/
+**Student:** Ayush Kumar Singh  
+**Roll number:** 150096725012
 
-**Created by:** Ayush Kumar Singh  
-**Student #150096725012**
+## Summary
 
-A retro matrix-style educational terminal simulation built for the AI Coding Lab. It combines a fake command-line interface, animated mission progress, sound toggle, and a hidden Caesar-shift cipher mini-game. It is strictly a simulation and does not access real systems.
+A playful command-line simulation for learning logic, ciphers, and terminal thinking. It is strictly educational and does not access real systems.
+
+## How to run
+
+Open `index.html` in a browser, or publish the repository with GitHub Pages.
 
 ## How to play
 
-1. Open the live link or `index.html`.
-2. Type `help`, `scan`, `decrypt`, or `status` in the terminal.
-3. In Cipher Breaker, decode the displayed letters using Caesar shift -3.
-4. Enter the decoded word and submit it.
-5. Use Restart Challenge to generate a new cipher.
+1. Type `help`, `scan`, `decrypt`, or `status` in the simulated terminal.
+2. Decode the displayed cipher using Caesar shift -3.
+3. Enter the decoded word in Cipher Breaker.
+4. Use Restart Challenge for a new word.
 
-## Secret Features
+## Secret features
 
-- Sound toggle UI for optional terminal feedback.
-- Mission progress meter that updates automatically.
-- Responsive layout for desktop and mobile screens.
-- Safe command handling with an educational simulation disclaimer.
-- Automatic `console.assert()` checks for normal, empty, and negative inputs.
-
-## Debugging note
-
-The intentional debugging exercise was represented by testing the cipher function with edge cases. The assertions verify that empty and negative inputs return safe values instead of crashing.
+- Sound toggle interface.
+- Animated mission progress meter.
+- Responsive terminal and cipher panels.
+- Safe simulated command handling.
+- `console.assert()` tests for normal, empty, and negative/incorrect inputs.
 
 ## Files
 
-- `index.html` — single-file HTML, CSS, and JavaScript deliverable.
-- `app/` — Next.js preview version used during development.
+- `index.html` — the complete single-file deliverable containing all HTML, CSS, JavaScript, comments, and test assertions.
+- `reflection.txt` — the required one-sentence debugging reflection.
