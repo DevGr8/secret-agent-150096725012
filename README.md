@@ -9,7 +9,7 @@ A playful command-line simulation for learning logic, ciphers, and terminal thin
 
 ## How to run
 
-Open `index.html` in a browser, or publish the repository with GitHub Pages.
+Open `index.html` directly in a browser, or publish the repository with GitHub Pages.
 
 ## How to play
 
@@ -24,7 +24,7 @@ Open `index.html` in a browser, or publish the repository with GitHub Pages.
 - Animated mission progress meter.
 - Responsive terminal and cipher panels.
 - Safe simulated command handling.
-- `console.assert()` tests for normal, empty, and negative/incorrect inputs.
+- `console.assert()` tests for normal, empty, and incorrect inputs.
 
 ## Files
 
